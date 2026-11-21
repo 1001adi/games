@@ -2,7 +2,7 @@
 
 ## 🏰 מבצר אחרון (Last Fortress) — אנדרואיד ומק
 
-**גרסה 11.8**
+**גרסה 11.9**
 
 - [⬇️ הורד APK לאנדרואיד](https://github.com/1001adi/games/raw/main/last-fortress/LastFortress.apk)
 - [⬇️ הורד למק (zip)](https://github.com/1001adi/games/raw/main/last-fortress/LastFortress-mac.zip)
