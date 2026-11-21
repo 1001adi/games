@@ -11,11 +11,15 @@
 התקנה בגלקסי: פותחים את הקישור בטלפון → מורידים → פותחים את הקובץ → מאשרים "התקנה ממקורות לא ידועים" אם נשאל.
 הקישור קבוע — בכל גרסה חדשה הקובץ מתעדכן באותה כתובת.
 
-## 🧆 פלאפל אלנבי (Falafel Allenby) — אנדרואיד
+## 🧆 פלאפל אלנבי (Falafel Allenby) — אנדרואיד ומק
 
-**גרסה 3.0.1** — [⬇️ הורד APK](https://github.com/1001adi/games/raw/main/falafel-allenby/FalafelAllenby.apk)
+**גרסה 3.0.1**
 
-אותה התקנה כמו למעלה. הקישור קבוע ומתעדכן בכל גרסה.
+- [⬇️ הורד APK לאנדרואיד](https://github.com/1001adi/games/raw/main/falafel-allenby/FalafelAllenby.apk)
+- [⬇️ הורד למק (zip)](https://github.com/1001adi/games/raw/main/falafel-allenby/FalafelAllenby-mac.zip)
+- [🌐 גרסת דפדפן](https://claude.ai/artifact/F5DfrnEuiSkc3WVYW8EMQm)
+
+אותה התקנה כמו למעלה. הקישורים קבועים ומתעדכנים בכל גרסה.
 
 ## 🪖 חזית הפלדה (Steel Front) — אנדרואיד ומק
 
