@@ -1,8 +1,12 @@
 # משחקים — הורדות
 
-## 🏰 מבצר אחרון (Last Fortress) — אנדרואיד
+## 🏰 מבצר אחרון (Last Fortress) — אנדרואיד ומק
 
-**גרסה 10.9** — [⬇️ הורד APK](https://github.com/1001adi/games/raw/main/last-fortress/LastFortress.apk)
+**גרסה 10.9**
+
+- [⬇️ הורד APK לאנדרואיד](https://github.com/1001adi/games/raw/main/last-fortress/LastFortress.apk)
+- [⬇️ הורד למק (zip)](https://github.com/1001adi/games/raw/main/last-fortress/LastFortress-mac.zip)
+- [🌐 גרסת דפדפן](https://claude.ai/artifact/TduZic2G625J6FZd7xeKuQ)
 
 התקנה בגלקסי: פותחים את הקישור בטלפון → מורידים → פותחים את הקובץ → מאשרים "התקנה ממקורות לא ידועים" אם נשאל.
 הקישור קבוע — בכל גרסה חדשה הקובץ מתעדכן באותה כתובת.

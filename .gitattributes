@@ -4,3 +4,4 @@
 *.zip binary
 steel-front/*.zip filter=lfs diff=lfs merge=lfs -text
 steel-front/*.apk filter=lfs diff=lfs merge=lfs -text
+last-fortress/*.zip filter=lfs diff=lfs merge=lfs -text
