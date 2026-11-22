@@ -1,11 +1,11 @@
 # משחקים — הורדות
 
-## ⚔️ מעמקי האופל (Abyss Depths) — מק ודפדפן
+## ⚔️ מעמקי האופל (Abyss Depths) — אנדרואיד, מק ודפדפן
 
-**גרסה 2.3**
+**גרסה 2.4**
 
 - [⬇️ הורד למק (zip)](https://github.com/1001adi/games/raw/main/abyss-depths/AbyssDepths-mac.zip) — פותחים את ה-zip, לחיצה ימנית על "התקנה.command" ← "פתח". הסקריפט מתקין את המשחק בתיקיית היישומים ופותח אותו.
-- 🤖 APK לאנדרואיד — בקרוב באותה תיקייה
+- [🤖 הורד לאנדרואיד (APK)](https://github.com/1001adi/games/raw/main/abyss-depths/AbyssDepths.apk) — פותחים את הקובץ בטלפון ומאשרים "התקנה ממקור לא ידוע".
 - [🌐 גרסת דפדפן](https://claude.ai/artifact/U9DV48Sv3BZkSDBqVeXqKs)
 
 הקישורים קבועים ומתעדכנים בכל גרסה. מה חדש: [abyss-depths/CHANGELOG.md](abyss-depths/CHANGELOG.md)
