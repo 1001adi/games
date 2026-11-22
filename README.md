@@ -21,12 +21,13 @@
 
 אותה התקנה כמו למעלה. הקישורים קבועים ומתעדכנים בכל גרסה.
 
-## 🪖 חזית הפלדה (Steel Front) — אנדרואיד ומק
+## 🪖 חזית הפלדה (Steel Front) — אנדרואיד, מק ו-Windows
 
-**גרסה 4.8**
+**גרסה 4.9**
 
 - [⬇️ הורד APK לאנדרואיד](https://github.com/1001adi/games/raw/main/steel-front/SteelFront.apk)
 - [⬇️ הורד למק (zip)](https://github.com/1001adi/games/raw/main/steel-front/SteelFront-mac.zip)
+- [⬇️ הורד ל-Windows (קובץ התקנה)](https://github.com/1001adi/games/raw/main/steel-front/SteelFront-Setup.exe) — ב-Windows SmartScreen לחצו "מידע נוסף" ← "הפעל בכל זאת" (הקובץ לא חתום)
 - [🌐 גרסת דפדפן](https://claude.ai/artifact/NQJfv8w42zR4ivYTFKH73n)
 
 הקישורים קבועים — בכל גרסה חדשה הקבצים מתעדכנים באותה כתובת. מה חדש: [steel-front/CHANGELOG.md](steel-front/CHANGELOG.md)

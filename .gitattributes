@@ -6,3 +6,5 @@ steel-front/*.zip filter=lfs diff=lfs merge=lfs -text
 steel-front/*.apk filter=lfs diff=lfs merge=lfs -text
 last-fortress/*.zip filter=lfs diff=lfs merge=lfs -text
 falafel-allenby/*.zip filter=lfs diff=lfs merge=lfs -text
+*.exe binary
+steel-front/*.exe filter=lfs diff=lfs merge=lfs -text
