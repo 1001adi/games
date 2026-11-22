@@ -10,3 +10,4 @@ falafel-allenby/*.zip filter=lfs diff=lfs merge=lfs -text
 steel-front/*.exe filter=lfs diff=lfs merge=lfs -text
 abyss-depths/*.zip filter=lfs diff=lfs merge=lfs -text
 abyss-depths/*.apk filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
