@@ -13,7 +13,7 @@
 
 ## 🧆 פלאפל אלנבי (Falafel Allenby) — אנדרואיד ומק
 
-**גרסה 3.3**
+**גרסה 3.4**
 
 - [⬇️ הורד APK לאנדרואיד](https://github.com/1001adi/games/raw/main/falafel-allenby/FalafelAllenby.apk)
 - [⬇️ הורד למק (zip)](https://github.com/1001adi/games/raw/main/falafel-allenby/FalafelAllenby-mac.zip)
