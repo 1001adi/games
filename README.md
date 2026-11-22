@@ -21,9 +21,9 @@
 התקנה בגלקסי: פותחים את הקישור בטלפון → מורידים → פותחים את הקובץ → מאשרים "התקנה ממקורות לא ידועים" אם נשאל.
 הקישור קבוע — בכל גרסה חדשה הקובץ מתעדכן באותה כתובת.
 
-## 🧆 פלאפל אלנבי (Falafel Allenby) — אנדרואיד ומק
+## 🧆 פלאפל אלנבי (Falafel Allenby): אנדרואיד ומק
 
-**גרסה 3.6**
+**גרסה 3.6.1**
 
 - [⬇️ הורד APK לאנדרואיד](https://github.com/1001adi/games/raw/main/falafel-allenby/FalafelAllenby.apk)
 - [⬇️ הורד למק (zip)](https://github.com/1001adi/games/raw/main/falafel-allenby/FalafelAllenby-mac.zip)
