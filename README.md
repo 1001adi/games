@@ -1,5 +1,15 @@
 # משחקים — הורדות
 
+## ⚔️ מעמקי האופל (Abyss Depths) — מק ודפדפן
+
+**גרסה 2.3**
+
+- [⬇️ הורד למק (zip)](https://github.com/1001adi/games/raw/main/abyss-depths/AbyssDepths-mac.zip) — פותחים את ה-zip, לחיצה ימנית על "התקנה.command" ← "פתח". הסקריפט מתקין את המשחק בתיקיית היישומים ופותח אותו.
+- 🤖 APK לאנדרואיד — בקרוב באותה תיקייה
+- [🌐 גרסת דפדפן](https://claude.ai/artifact/U9DV48Sv3BZkSDBqVeXqKs)
+
+הקישורים קבועים ומתעדכנים בכל גרסה. מה חדש: [abyss-depths/CHANGELOG.md](abyss-depths/CHANGELOG.md)
+
 ## 🏰 מבצר אחרון (Last Fortress) — אנדרואיד ומק
 
 **גרסה 12.4**
