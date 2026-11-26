@@ -43,7 +43,7 @@
 
 ## 🪖 חזית הפלדה (Steel Front), אנדרואיד, מק ו-Windows
 
-**גרסה 4.49**
+**גרסה 4.50**
 
 - [⬇️ הורד APK לאנדרואיד](https://github.com/1001adi/games/raw/main/steel-front/SteelFront.apk)
 - [⬇️ הורד למק (zip)](https://github.com/1001adi/games/raw/main/steel-front/SteelFront-mac.zip)
