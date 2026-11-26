@@ -2,7 +2,7 @@
 
 ## 🏡 חיים בשכונה (Neighborhood Life), אנדרואיד, מק ודפדפן
 
-**גרסה 1.2**
+**גרסה 1.2.1**
 
 - [🤖 הורד APK לאנדרואיד](https://github.com/1001adi/games/raw/main/neighborhood-life/NeighborhoodLife.apk), פותחים את הקובץ בטלפון ומאשרים "התקנה ממקור לא ידוע".
 - [⬇️ הורד למק (zip)](https://github.com/1001adi/games/raw/main/neighborhood-life/NeighborhoodLife-mac.zip), פותחים את ה zip, לחיצה ימנית על install.command ואז "פתח". הסקריפט מתקין את המשחק בתיקיית היישומים ופותח אותו.
