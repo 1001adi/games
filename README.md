@@ -2,7 +2,7 @@
 
 ## 🏙️ מטרופולין 2000 (Metropolis 2000), אנדרואיד, מק ודפדפן
 
-**גרסה 1.9**
+**גרסה 1.9.1**
 
 - [🤖 הורד APK לאנדרואיד](https://github.com/1001adi/games/raw/main/metropolis-2000/Metropolis2000.apk), פותחים את הקובץ בטלפון ומאשרים "התקנה ממקור לא ידוע".
 - [⬇️ הורד למק (zip)](https://github.com/1001adi/games/raw/main/metropolis-2000/Metropolis2000-mac.zip), פותחים את ה zip, לחיצה ימנית על "Install Metropolis 2000.command" ואז "פתח". הסקריפט מתקין את המשחק בתיקיית היישומים ופותח אותו. מתאים למק עם שבב אפל (M1 ומעלה).
