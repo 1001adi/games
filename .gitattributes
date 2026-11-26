@@ -13,3 +13,5 @@ abyss-depths/*.apk filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 neighborhood-life/*.zip filter=lfs diff=lfs merge=lfs -text
 neighborhood-life/*.apk filter=lfs diff=lfs merge=lfs -text
+metropolis-2000/*.zip filter=lfs diff=lfs merge=lfs -text
+metropolis-2000/*.apk filter=lfs diff=lfs merge=lfs -text

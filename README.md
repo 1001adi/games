@@ -1,5 +1,15 @@
 # משחקים, הורדות
 
+## 🏙️ מטרופולין 2000 (Metropolis 2000), אנדרואיד, מק ודפדפן
+
+**גרסה 1.9**
+
+- [🤖 הורד APK לאנדרואיד](https://github.com/1001adi/games/raw/main/metropolis-2000/Metropolis2000.apk), פותחים את הקובץ בטלפון ומאשרים "התקנה ממקור לא ידוע".
+- [⬇️ הורד למק (zip)](https://github.com/1001adi/games/raw/main/metropolis-2000/Metropolis2000-mac.zip), פותחים את ה zip, לחיצה ימנית על "Install Metropolis 2000.command" ואז "פתח". הסקריפט מתקין את המשחק בתיקיית היישומים ופותח אותו. מתאים למק עם שבב אפל (M1 ומעלה).
+- [🌐 גרסת דפדפן](https://claude.ai/artifact/PXxr1YD1iMcqtxUDtYTokx)
+
+הקישורים קבועים ומתעדכנים בכל גרסה. מה חדש: [metropolis-2000/CHANGELOG.md](metropolis-2000/CHANGELOG.md)
+
 ## 🏡 חיים בשכונה (Neighborhood Life), אנדרואיד, מק ודפדפן
 
 **גרסה 1.12**
